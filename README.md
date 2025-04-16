@@ -17,3 +17,5 @@ It's a subset of ML which focus on doing the above same process in ML with deep 
 <img width="869" alt="image" src="https://github.com/user-attachments/assets/829d8fd4-b94f-4305-bd0d-d5f0a061e770" />
 
 Perceptron: The structural building block of deep learning. This is also called as single neuron.
+<img width="882" alt="image" src="https://github.com/user-attachments/assets/0ee072d5-5175-432a-853a-2a86973e6a2b" />
+Inputs will be multiplied with their corresponding weights. After we multiply all of our weights by our inputs, we'll also going to add bias. Then, we'll add the numbers. Then, we'll take this single number and pass it to non-linear activation function.
